@@ -7,6 +7,7 @@ exclude =
     __pycache__,
     setup.py
 max-complexity = 10
+max-line-length = 100
 per-file-ignores =
     # F401 is imported but unused, sometimes we just want to make things
     # available in init files.
@@ -18,4 +19,3 @@ per-file-ignores =
     # Ignoring F401 and F811 to allow import of fixtures.
     # E501 is line too long.
     tests/*: E501, E201, E202, E203, F403, F405, F401, F811
-

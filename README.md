@@ -1,6 +1,9 @@
-# EPDS Python Project Template
+# Editing and Imputation Methods for FBSS project
 
-A template Python repository for getting a quick start on projects backed by good practice.
+The FBSS project- Future of Business Statistics Surveys- will involve redevelopment of methods.
+
+This repository allows development of methods during the discovery phase, that might potentially
+be used in new pipelines for results processing of new surveys.
 
 Click on the "Use this template" button in the project overview to start a new repo from this
 template.
